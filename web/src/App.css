@@ -8,3 +8,30 @@ nav a:hover {
     color:  #FFE66D;
 }
 /* Navbar end  */
+
+/* Home  */
+.homeRandomButton {
+    width: 30%;
+    background-color: #FF6B6B;
+    border-radius: 10px;
+    border: none;
+    color: #F7FFF7;
+}
+
+.homeRandomButton:hover{
+    box-shadow: -2px 2px 20px 1px rgba(255,230,109,0.42);
+    -webkit-box-shadow: -2px 2px 20px 1px rgba(255,230,109,0.42);
+    -moz-box-shadow: -2px 2px 20px 1px rgba(255,230,109,0.42);
+}
+/* Home end */
+
+/* Home card */
+.cardContainer{
+    height: 70vh;
+    border-radius: 10px;
+}
+.cardh2{
+    color: #F7FFF7;
+}
+/* Home card end */
+
