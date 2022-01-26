@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Periyot/Random-Color-Generator/static/css/main.073c9b0a.css",
-    "main.js": "/Periyot/Random-Color-Generator/static/js/main.adf04f37.js",
-    "static/js/787.d1d4a2c2.chunk.js": "/Periyot/Random-Color-Generator/static/js/787.d1d4a2c2.chunk.js",
-    "static/media/logo.svg": "/Periyot/Random-Color-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Periyot/Random-Color-Generator/index.html",
-    "main.073c9b0a.css.map": "/Periyot/Random-Color-Generator/static/css/main.073c9b0a.css.map",
-    "main.adf04f37.js.map": "/Periyot/Random-Color-Generator/static/js/main.adf04f37.js.map",
-    "787.d1d4a2c2.chunk.js.map": "/Periyot/Random-Color-Generator/static/js/787.d1d4a2c2.chunk.js.map"
+    "main.css": "/Random-Color-Generator/static/css/main.073c9b0a.css",
+    "main.js": "/Random-Color-Generator/static/js/main.7ff75318.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/Random-Color-Generator/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/logo.svg": "/Random-Color-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Random-Color-Generator/index.html",
+    "main.073c9b0a.css.map": "/Random-Color-Generator/static/css/main.073c9b0a.css.map",
+    "main.7ff75318.js.map": "/Random-Color-Generator/static/js/main.7ff75318.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/Random-Color-Generator/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.adf04f37.js"
+    "static/js/main.7ff75318.js"
   ]
 }
