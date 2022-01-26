@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{
       backgroundColor:'#1A535C',
-      overflow:'hidden',
+      overflowX:'hidden',
       height:'100vh',
       width:'100%'
       }} className="App">
