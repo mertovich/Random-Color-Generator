@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Random-Color-Generator/static/css/main.23e7430b.css",
-    "main.js": "/Random-Color-Generator/static/js/main.ed5407bb.js",
+    "main.css": "/Random-Color-Generator/static/css/main.b5d5e328.css",
+    "main.js": "/Random-Color-Generator/static/js/main.4dce0028.js",
     "static/js/787.d1d4a2c2.chunk.js": "/Random-Color-Generator/static/js/787.d1d4a2c2.chunk.js",
     "static/media/logo.png": "/Random-Color-Generator/static/media/logo.c2678ce13a067ac863cb.png",
     "index.html": "/Random-Color-Generator/index.html",
-    "main.23e7430b.css.map": "/Random-Color-Generator/static/css/main.23e7430b.css.map",
-    "main.ed5407bb.js.map": "/Random-Color-Generator/static/js/main.ed5407bb.js.map",
+    "main.b5d5e328.css.map": "/Random-Color-Generator/static/css/main.b5d5e328.css.map",
+    "main.4dce0028.js.map": "/Random-Color-Generator/static/js/main.4dce0028.js.map",
     "787.d1d4a2c2.chunk.js.map": "/Random-Color-Generator/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23e7430b.css",
-    "static/js/main.ed5407bb.js"
+    "static/css/main.b5d5e328.css",
+    "static/js/main.4dce0028.js"
   ]
 }
