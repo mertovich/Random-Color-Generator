@@ -35,3 +35,6 @@ $	npm run start
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
+## Screenshot
+
+<img width="1440" alt="ss" src="https://user-images.githubusercontent.com/88425310/152643293-40e1a88d-f8ae-46ce-a96a-07ae56c84265.png">
